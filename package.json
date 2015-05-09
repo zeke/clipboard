@@ -1,0 +1,35 @@
+{
+  "name": "@zeke/clipboard",
+  "version": "1.0.0",
+  "description": "The scripts I keep in [~/.clipboard](http://npm.im/dot-clipboard)",
+  "main": "index.js",
+  "dependencies": {
+    "shelljs": "^0.4.0",
+    "strftime": "^0.9.0"
+  },
+  "devDependencies": {
+    "standard": "^3.7.3"
+  },
+  "scripts": {
+    "test": "standard --format"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zeke/clipboard"
+  },
+  "keywords": [
+    "clipboard",
+    "dot-clipboard",
+    "os",
+    "osx",
+    "copy",
+    "paste",
+    "keylogger-esque"
+  ],
+  "author": "zeke",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zeke/clipboard/issues"
+  },
+  "homepage": "https://github.com/zeke/clipboard"
+}
