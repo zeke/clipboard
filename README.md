@@ -7,11 +7,13 @@ The scripts I keep in my [~/.clipboard](http://npm.im/dot-clipboard) directory
 There's only [one script](/index.js) so far. It writes all text-based clipboard events to a file:
 
 ```
-» ls -A1
+» ls -A1 ~/.clipboard/data
+
 2015-05-08-18:28:29:052-Fri.txt
 2015-05-08-18:28:36:088-Fri.txt
 
-» cat 2015-05-08-18:28:36:088-Fri.txt
+» cat ~/.clipboard/data/2015-05-08-18:28:36:088-Fri.txt
+
 Once upon a midnight dreary, while I pondered, weak and weary,
 Over many a quaint and curious volume of forgotten lore,
 While I nodded, nearly napping, suddenly there came a tapping,

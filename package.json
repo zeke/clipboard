@@ -1,7 +1,7 @@
 {
   "name": "@zeke/clipboard",
   "version": "1.0.0",
-  "description": "The scripts I keep in [~/.clipboard](http://npm.im/dot-clipboard)",
+  "description": "The scripts I keep in my [~/.clipboard](http://npm.im/dot-clipboard) directory",
   "main": "index.js",
   "dependencies": {
     "shelljs": "^0.4.0",
